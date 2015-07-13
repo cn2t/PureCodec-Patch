@@ -1,0 +1,14 @@
+{
+"LAVFilters/avcodec-lav-56.dll": "LAVFilters/avcodec-lav-56.dll",
+"LAVFilters/avfilter-lav-5.dll": "LAVFilters/avfilter-lav-5.dll",
+"LAVFilters/avformat-lav-56.dll": "LAVFilters/avformat-lav-56.dll",
+"LAVFilters/avresample-lav-2.dll": "LAVFilters/avresample-lav-2.dll",
+"LAVFilters/avutil-lav-54.dll": "LAVFilters/avutil-lav-54.dll",
+"LAVFilters/IntelQuickSyncDecoder.dll": "LAVFilters/IntelQuickSyncDecoder.dll",
+"LAVFilters/LAVAudio.ax": "LAVFilters/LAVAudio.ax",
+"LAVFilters/LAVFilters.Dependencies.manifest": "LAVFilters/LAVFilters.Dependencies.manifest",
+"LAVFilters/LAVSplitter.ax": "LAVFilters/LAVSplitter.ax",
+"LAVFilters/LAVVideo.ax": "LAVFilters/LAVVideo.ax",
+"LAVFilters/libbluray.dll": "LAVFilters/libbluray.dll",
+"LAVFilters/swscale-lav-3.dll": "LAVFilters/swscale-lav-3.dll"
+}

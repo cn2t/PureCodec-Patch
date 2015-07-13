@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PureSet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-31 18:15+0800\n"
+"PO-Revision-Date: 2015-05-06 22:28+0800\n"
+"Last-Translator: Dio <diodiy@163.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: en\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: D:\\MyMPC\\DIO\\PureSet\n"
+
+msgid "16:9 宽高比"
+msgstr "16:9 AR"
+
+msgid "2.1 立体声"
+msgstr "2.1 Stereo"
+
+msgid "2倍"
+msgstr "X 2"
+
+msgid "4 声道"
+msgstr "4 Channel"
+
+msgid "4.1 声道"
+msgstr "4.1 Channel"
+
+msgid "4:3 宽高比"
+msgstr "4:3 AR"
+
+msgid "5.1 声道"
+msgstr "5.1 Channel"
+
+msgid "6.1 声道"
+msgstr "6.1 Channel"
+
+msgid "7.1 声道"
+msgstr "7.1 Channel"
+
+msgid "DXVA解码器"
+msgstr "DXVA"
+
+msgid "Direct3D9 视频渲染"
+msgstr "Direct3D9 Video Renderer"
+
+msgid "EVR Custom Pres. (字幕)"
+msgstr "EVR Custom Pres. (Subtitles)"
+
+msgid "EVR Sync (字幕)"
+msgstr "EVR Sync (Subtitles)"
+
+msgid "EVR 增强型渲染"
+msgstr "Enhanced Video Renderer"
+
+msgid "EVR 增强型渲染(C/A)"
+msgstr "Enhanced Video Renderer (C/A)"
+
+msgid "EVR(CP) 推荐渲染"
+msgstr "EVR Custom Present"
+
+msgid "HDRip / 10bit (默认)"
+msgstr "HDRip / 10bit (Default)"
+
+msgid "Haali 渲染 (字幕)"
+msgstr "Haali Renderer (Subtitles)"
+
+msgid "Haali 视频渲染"
+msgstr "Haali Video Renderer"
+
+msgid "MadVR 视频渲染"
+msgstr "Madshi Video Renderer"
+
+msgid "Media Player Classic"
+msgstr "Media Player Classic"
+
+msgid "OpenGL 视频渲染"
+msgstr "OpenGL Video Renderer"
+
+msgid "The Kmplayer"
+msgstr "The Kmplayer"
+
+msgid "VMR 混合模式"
+msgstr "VMR Mixing Mode"
+
+msgid "VMR7 无渲染"
+msgstr "VMR7 Renderless"
+
+msgid "VMR7 无渲染 (字幕)"
+msgstr "VMR7 Renderless (Subtitles)"
+
+msgid "VMR7 窗口化"
+msgstr "VMR7 Windowed"
+
+msgid "VMR9 (修正黑位) (字幕)"
+msgstr "VMR9 (16-235 -> 0-255) (Subtitles)"
+
+msgid "VMR9 无渲染"
+msgstr "VMR9 Renderless"
+
+msgid "VMR9 无渲染 (修正黑位)"
+msgstr "VMR9 Renderless (Remap_16_235)"
+
+msgid "VMR9 无渲染 (字幕)"
+msgstr "VMR9 Renderless (Subtitles)"
+
+msgid "VMR9 窗口化"
+msgstr "VMR9 Windowed"
+
+msgid "ffdshow 视频设置"
+msgstr "ffdshow Video Config"
+
+msgid "ffdshow 软倍线:"
+msgstr "ffdshow Resize:"
+
+msgid "ffdshow 音频设置"
+msgstr "ffdshow Audio Config"
+
+msgid "ffdshow支持全部音频音量规格化"
+msgstr "ffdshow support all audio volume normalize"
+
+msgid "不混音"
+msgstr "Same as input"
+
+msgid "中文主页"
+msgstr "Home(cn)"
+
+msgid "主播放器:"
+msgstr "Main Player:"
+
+msgid "主页"
+msgstr "Home"
+
+msgid "作者: 迪奥"
+msgstr "Author: Dio"
+
+msgid "保存最近打开文件的历史记录"
+msgstr "Keep history of recently opened files"
+
+msgid "关于"
+msgstr "About"
+
+msgid "其它"
+msgstr "Other"
+
+msgid "内置: "
+msgstr "Internal:"
+
+msgid "分离器"
+msgstr "Splitter"
+
+msgid "刷新"
+msgstr "Refresh"
+
+msgid "加载外部音频文件"
+msgstr "Load Audio File"
+
+msgid "原始宽高比"
+msgstr "Original AR"
+
+msgid "启动(&R)"
+msgstr "Run(&R)"
+
+msgid "字幕插件:"
+msgstr "Subtitle:"
+
+msgid "完美者论坛"
+msgstr "BBS"
+
+msgid "完美解码是一款能实现各种流行视频、HDTV播放及编码的全能型影音解码包。"
+msgstr "Pure Codec provide a good solution to most popular media files."
+
+msgid "完美解码设置中心"
+msgstr "Pure Codec Settings"
+
+msgid "导入设置"
+msgstr "Load Settings"
+
+msgid "导出设置"
+msgstr "Save Settings"
+
+msgid "已完成!"
+msgstr "Completed!"
+
+msgid "应用(&A)"
+msgstr "Apply(&A)"
+
+msgid "当前宽高比"
+msgstr "No AR"
+
+msgid "快速反注册"
+msgstr "Quick UnRegister"
+
+msgid "快速注册"
+msgstr "Quick Register"
+
+msgid "快速滤镜连接"
+msgstr "Smart Filter"
+
+msgid "恢复默认安装 / 修复"
+msgstr "Default / Repair"
+
+msgid "恢复默认设置"
+msgstr "Repair"
+
+msgid "执行全部选项"
+msgstr "Run all options"
+
+msgid "播放器"
+msgstr "Player"
+
+msgid "播放文件夹中下一个文件"
+msgstr "Play next in the folder"
+
+msgid "支持多声道 WMA"
+msgstr "Multi-Channel WMA"
+
+msgid "文件不存在。"
+msgstr "The file does not exist."
+
+msgid "文件关联"
+msgstr "File Assoc"
+
+msgid "文件关联工具"
+msgstr "File Assoc Tool"
+
+msgid "无法加载: "
+msgstr "Could not load: "
+
+msgid "日志"
+msgstr "Log"
+
+msgid "旧的视频渲染器"
+msgstr "Old Renderer"
+
+msgid "显示 OSD"
+msgstr "Show OSD"
+
+msgid "显示字幕"
+msgstr "Subtitles"
+
+msgid "普通视频渲染"
+msgstr "Video Renderer"
+
+msgid "正在注册: "
+msgstr "Registring: "
+
+msgid "正在解除注册: "
+msgstr "UnRegistring: "
+
+msgid "添加注册AX/DLL功能到右键"
+msgstr "Add register AX/DLL to right-click menu"
+
+msgid "满屏"
+msgstr "Full Screen"
+
+msgid "用户自定义"
+msgstr "User Defined"
+
+msgid "确定"
+msgstr "OK"
+
+msgid "确定要进行解码器修复？"
+msgstr "Really Restore Default?"
+
+msgid "确认"
+msgstr "Confirm"
+
+msgid "禁用 VSFilter"
+msgstr "Disable VSFilter"
+
+msgid "禁用 VobSub"
+msgstr "Disable VobSub"
+
+msgid "空 (任意)"
+msgstr "Null (anything)"
+
+msgid "空 (未压缩)"
+msgstr "Null (uncompressed)"
+
+msgid "立体声"
+msgstr "Stereo"
+
+msgid "简介"
+msgstr "Info"
+
+msgid "系统默认"
+msgstr "System Default"
+
+msgid "耳机"
+msgstr "Headphone"
+
+msgid "自动选择(推荐)"
+msgstr "Select Automatically"
+
+msgid "覆盖合成器"
+msgstr "Overlay Mixer"
+
+msgid "覆盖合成器 (默认)"
+msgstr "Overlay Mixer (Default)"
+
+msgid "视频处理滤镜"
+msgstr "Video Processing"
+
+msgid "视频渲染器:"
+msgstr "Video Renderer:"
+
+msgid "视频编码"
+msgstr "Encoder"
+
+msgid "视频解码器"
+msgstr "Video Dec"
+
+msgid "解码器"
+msgstr "Decoders"
+
+msgid "解码模式:"
+msgstr "Decode Mode:"
+
+msgid "贴吧"
+msgstr "Post Bar"
+
+msgid "超级速度模式"
+msgstr "SuperSpeed Mode"
+
+msgid "载入配置出错"
+msgstr "Error loading settings"
+
+msgid "选择输入文件"
+msgstr "Choose an input file"
+
+msgid "选择输出文件"
+msgstr "Choose an output file"
+
+msgid "配置(&C)"
+msgstr "Config(&C)"
+
+msgid "音频"
+msgstr "Audio"
+
+msgid "音频处理滤镜"
+msgstr "Audio Processing"
+
+msgid "音频解码器"
+msgstr "Audio Dec"
+
+msgid "音频输出"
+msgstr "Audio Out"

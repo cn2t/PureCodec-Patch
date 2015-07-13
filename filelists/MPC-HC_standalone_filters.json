@@ -1,0 +1,16 @@
+{
+"$filenameNoExt/AudioSwitcher.ax": "AudioSwitcher.ax",
+"$filenameNoExt/AVI2AC3Filter.ax": "AVI2AC3Filter.ax",
+"$filenameNoExt/BufferFilter.ax": "BufferFilter.ax",
+"$filenameNoExt/CDDAReader.ax": "CDDAReader.ax",
+"$filenameNoExt/CDXAReader.ax": "CDXAReader.ax",
+"$filenameNoExt/DeCSSFilter.ax": "DeCSSFilter.ax",
+"$filenameNoExt/DSMMuxer.ax": "DSMMuxer.ax",
+"$filenameNoExt/DSMSplitter.ax": "DSMSplitter.ax",
+"$filenameNoExt/MatroskaMuxer.ax": "MatroskaMuxer.ax",
+"$filenameNoExt/MpcAudioRenderer.ax": "MpcAudioRenderer.ax",
+"$filenameNoExt/StreamDriveThru.ax": "StreamDriveThru.ax",
+"$filenameNoExt/SubtitleSource.ax": "SubtitleSource.ax",
+"$filenameNoExt/VTSReader.ax": "VTSReader.ax",
+"$filenameNoExt/WavDest.ax": "WavDest.ax"
+}

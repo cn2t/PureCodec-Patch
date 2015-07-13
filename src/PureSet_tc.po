@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PureSet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-31 18:15+0800\n"
+"PO-Revision-Date: 2015-05-06 22:36+0800\n"
+"Last-Translator: 小斐 <admin@2d-gate.org>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: D:\\MyMPC\\DIO\\PureSet\n"
+
+msgid "16:9 宽高比"
+msgstr "16:9 寬高比"
+
+msgid "2.1 立体声"
+msgstr "2.1 立體聲"
+
+msgid "2倍"
+msgstr "2倍"
+
+msgid "4 声道"
+msgstr "4 聲道"
+
+msgid "4.1 声道"
+msgstr "4.1 聲道"
+
+msgid "4:3 宽高比"
+msgstr "4:3 寬高比"
+
+msgid "5.1 声道"
+msgstr "5.1 聲道"
+
+msgid "6.1 声道"
+msgstr "6.1 聲道"
+
+msgid "7.1 声道"
+msgstr "7.1 聲道"
+
+msgid "DXVA解码器"
+msgstr "DXVA解碼器"
+
+msgid "Direct3D9 视频渲染"
+msgstr "Direct3D9 影片渲染"
+
+msgid "EVR Custom Pres. (字幕)"
+msgstr "EVR Custom Pres. (字幕)"
+
+msgid "EVR Sync (字幕)"
+msgstr "EVR Sync (字幕)"
+
+msgid "EVR 增强型渲染"
+msgstr "EVR 增強型渲染"
+
+msgid "EVR 增强型渲染(C/A)"
+msgstr "EVR 增強型渲染(C/A)"
+
+msgid "EVR(CP) 推荐渲染"
+msgstr "EVR(CP) 推薦渲染"
+
+msgid "HDRip / 10bit (默认)"
+msgstr "HDRip / 10bit (預設)"
+
+msgid "Haali 渲染 (字幕)"
+msgstr "Haali 渲染 (字幕)"
+
+msgid "Haali 视频渲染"
+msgstr "Haali 影片渲染"
+
+msgid "MadVR 视频渲染"
+msgstr "MadVR 影片渲染"
+
+msgid "Media Player Classic"
+msgstr "Media Player Classic"
+
+msgid "OpenGL 视频渲染"
+msgstr "OpenGL 影片渲染"
+
+msgid "The Kmplayer"
+msgstr "The Kmplayer"
+
+msgid "VMR 混合模式"
+msgstr "VMR 混合模式"
+
+msgid "VMR7 无渲染"
+msgstr "VMR7 無渲染"
+
+msgid "VMR7 无渲染 (字幕)"
+msgstr "VMR7 無渲染 (字幕)"
+
+msgid "VMR7 窗口化"
+msgstr "VMR7 視窗化"
+
+msgid "VMR9 (修正黑位) (字幕)"
+msgstr "VMR9 (修正黑位) (字幕)"
+
+msgid "VMR9 无渲染"
+msgstr "VMR9 無渲染"
+
+msgid "VMR9 无渲染 (修正黑位)"
+msgstr "VMR9 無渲染 (修正黑位)"
+
+msgid "VMR9 无渲染 (字幕)"
+msgstr "VMR9 無渲染 (字幕)"
+
+msgid "VMR9 窗口化"
+msgstr "VMR9 視窗化"
+
+msgid "ffdshow 视频设置"
+msgstr "ffdshow 影片設定"
+
+msgid "ffdshow 软倍线:"
+msgstr "ffdshow 軟倍線:"
+
+msgid "ffdshow 音频设置"
+msgstr "ffdshow 音訊設定"
+
+msgid "ffdshow支持全部音频音量规格化"
+msgstr "ffdshow支援全部音訊音量一般化"
+
+msgid "不混音"
+msgstr "不混音"
+
+msgid "中文主页"
+msgstr "中文首頁"
+
+msgid "主播放器:"
+msgstr "主播放器:"
+
+msgid "主页"
+msgstr "首頁"
+
+msgid "作者: 迪奥"
+msgstr "作者: 迪奧, 繁體化: 小斐@2D-Gate"
+
+msgid "保存最近打开文件的历史记录"
+msgstr "保存最近打開檔案的歷史記錄"
+
+msgid "关于"
+msgstr "關於"
+
+msgid "其它"
+msgstr "其它"
+
+msgid "内置: "
+msgstr "內建: "
+
+msgid "分离器"
+msgstr "分離器"
+
+msgid "刷新"
+msgstr "重新整理"
+
+msgid "加载外部音频文件"
+msgstr "載入外部音訊檔案"
+
+msgid "原始宽高比"
+msgstr "原始寬高比"
+
+msgid "启动(&R)"
+msgstr "啟動(&R)"
+
+msgid "字幕插件:"
+msgstr "字幕外掛:"
+
+msgid "完美者论坛"
+msgstr "完美者論壇"
+
+msgid "完美解码是一款能实现各种流行视频、HDTV播放及编码的全能型影音解码包。"
+msgstr "完美解碼是一款能實現各種流行影片、HDTV播放及編碼的全能型影音解碼包。"
+
+msgid "完美解码设置中心"
+msgstr "完美解碼設定中心"
+
+msgid "导入设置"
+msgstr "導入設定"
+
+msgid "导出设置"
+msgstr "導出設定"
+
+msgid "已完成!"
+msgstr "已完成!"
+
+msgid "应用(&A)"
+msgstr "套用(&A)"
+
+msgid "当前宽高比"
+msgstr "目前寬高比"
+
+msgid "快速反注册"
+msgstr "快速解除註冊"
+
+msgid "快速注册"
+msgstr "快速註冊"
+
+msgid "快速滤镜连接"
+msgstr "快速濾鏡連接"
+
+msgid "恢复默认安装 / 修复"
+msgstr "恢復預設安裝 / 修復"
+
+msgid "恢复默认设置"
+msgstr "恢復預設設定"
+
+msgid "执行全部选项"
+msgstr "執行所有選項"
+
+msgid "播放器"
+msgstr "播放器"
+
+msgid "播放文件夹中下一个文件"
+msgstr "播放資料夾中下一個檔案"
+
+msgid "支持多声道 WMA"
+msgstr "支援多聲道 WMA"
+
+msgid "文件不存在。"
+msgstr "檔案不存在。"
+
+msgid "文件关联"
+msgstr "檔案關聯"
+
+msgid "文件关联工具"
+msgstr "檔案關聯工具"
+
+msgid "无法加载: "
+msgstr "無法載入: "
+
+msgid "日志"
+msgstr "日誌"
+
+msgid "旧的视频渲染器"
+msgstr "舊的影片渲染器"
+
+msgid "显示 OSD"
+msgstr "顯示 OSD"
+
+msgid "显示字幕"
+msgstr "顯示字幕"
+
+msgid "普通视频渲染"
+msgstr "一般影片渲染"
+
+msgid "正在注册: "
+msgstr "正在註冊: "
+
+msgid "正在解除注册: "
+msgstr "正在解除註冊: "
+
+msgid "添加注册AX/DLL功能到右键"
+msgstr "添加註冊AX/DLL功能到右鍵"
+
+msgid "满屏"
+msgstr "全螢幕"
+
+msgid "用户自定义"
+msgstr "使用者自訂"
+
+msgid "确定"
+msgstr "確定"
+
+msgid "确定要进行解码器修复？"
+msgstr "確定要進行解碼器修復？"
+
+msgid "确认"
+msgstr "確認"
+
+msgid "禁用 VSFilter"
+msgstr "禁用 VSFilter"
+
+msgid "禁用 VobSub"
+msgstr "禁用 VobSub"
+
+msgid "空 (任意)"
+msgstr "空 (任意)"
+
+msgid "空 (未压缩)"
+msgstr "空 (未壓縮)"
+
+msgid "立体声"
+msgstr "立體聲"
+
+msgid "简介"
+msgstr "簡介"
+
+msgid "系统默认"
+msgstr "系統預設"
+
+msgid "耳机"
+msgstr "耳機"
+
+msgid "自动选择(推荐)"
+msgstr "自動選擇(推薦)"
+
+msgid "覆盖合成器"
+msgstr "覆蓋合成器"
+
+msgid "覆盖合成器 (默认)"
+msgstr "覆蓋合成器 (預設)"
+
+msgid "视频处理滤镜"
+msgstr "影像處理濾鏡"
+
+msgid "视频渲染器:"
+msgstr "影片渲染器:"
+
+msgid "视频编码"
+msgstr "影片編碼"
+
+msgid "视频解码器"
+msgstr "影片解碼器"
+
+msgid "解码器"
+msgstr "解碼器"
+
+msgid "解码模式:"
+msgstr "解碼模式:"
+
+msgid "贴吧"
+msgstr "貼吧"
+
+msgid "超级速度模式"
+msgstr "超級速度模式"
+
+msgid "载入配置出错"
+msgstr "載入設定出錯"
+
+msgid "选择输入文件"
+msgstr "選擇輸入檔案"
+
+msgid "选择输出文件"
+msgstr "選擇輸出檔案"
+
+msgid "配置(&C)"
+msgstr "設定(&C)"
+
+msgid "音频"
+msgstr "音訊"
+
+msgid "音频处理滤镜"
+msgstr "音訊處理濾鏡"
+
+msgid "音频解码器"
+msgstr "音訊解碼器"
+
+msgid "音频输出"
+msgstr "音訊輸出"
+
+#~ msgid "主页："
+#~ msgstr "首頁："
+
+#~ msgid "完美者精品论坛"
+#~ msgstr "完美者精品論壇"
+
+#~ msgid "论坛："
+#~ msgstr "論壇："

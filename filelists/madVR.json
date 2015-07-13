@@ -1,0 +1,12 @@
+{
+"dbghelp.dll":"Codecs/dbghelp.dll",
+"madHcCtrl.exe":"Codecs/madHcCtrl.exe",
+"madHcNet32.dll":"Codecs/madHcNet32.dll",
+"madHcNet64.dll":"Codecs/madHcNet64.dll",
+"madLevelsTweaker.exe":"Codecs/madLevelsTweaker.exe",
+"madTPG.exe":"Codecs/madTPG.exe",
+"madVR.ax":"Codecs/madVR.ax",
+"madVR64.ax":"Codecs/madVR64.ax",
+"mvrSettings32.dll":"Codecs/mvrSettings32.dll",
+"mvrSettings64.dll":"Codecs/mvrSettings64.dll"
+}
