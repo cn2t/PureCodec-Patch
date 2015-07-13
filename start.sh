@@ -50,10 +50,10 @@ cp -r $dir_patch/* $dir_build
 echoAllVersion > $dir_build/version.log
 rm -rf PureCodec*
 
-packageName="PureCodec Patch (2D-Gate v$(date +%y%m%d))"
+packageName="PureCodec-Patch-v$(date +%y%m%d)"
 mv $dir_build $packageName
 7z a $packageName.exe -t7z -m0=lzma2 -mx=9 -mfb=64 -md=64m -ms=on -sfx7z.sfx $packageName
 
-rm -rf $dir_tmp
+rm -rf $dir_tmp $packageName
 
 echo -e ${BGreen}Done!! Please check $packageName.exe${Color_Off}
